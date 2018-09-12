@@ -1,0 +1,101 @@
+*{
+    margin: 0 !important;    
+}
+
+body {
+    background-image: url('../img/fondo4.jpg');
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+}
+
+main {
+    margin-left: 20% !important;
+    margin-right: 20% !important;
+    text-align: center;
+    background-color: aqua;
+    background-attachment: fixed;
+    opacity: 0.8;
+}
+
+aside a .idioma {
+	float: right;
+	width: 30px;
+	height: 30px;
+	margin-top: 10px !important;
+	margin-right: 10px !important;
+}
+
+.titol {
+    background-color: chartreuse;
+}
+
+h1 {
+    color: red;
+}
+
+.contenido {
+    margin: 0 20% !important;
+    width: 60%;
+    padding: 10px 10px;
+    background-color: coral;
+    border-radius: 20px;
+}
+
+.coneixements {
+    color: black;
+    font-weight: bold;
+    margin: 0 20% !important;
+    width: 60%;
+    padding: 10px 10px;
+    background-color: #feffaa;
+    border-radius: 20px;
+}
+
+.linea {
+    margin: 0 10% !important;
+    width: 80%;
+    color: black;
+}
+
+.contenido_extra {
+    margin: 0 20% !important;
+    width: 60%;
+    padding: 10px 10px;
+    background-color: #feffaa;
+    border-radius: 20px;
+}
+
+.justificado {
+    margin: 0 20% !important;
+    width: 60%;
+    padding: 10px 10px;
+    background-color: coral;
+    border-radius: 20px;
+    text-align: justify;
+}
+
+.subenlace1 {	
+	float: left;
+	margin-left: 20px !important;
+	padding: 10px 10px;
+	border-radius: 10px;
+	background-color: #fdff00;
+}
+
+.subenlace2 {
+	float: right;
+	margin-right: 20px !important;
+	padding: 10px 10px;
+	border-radius: 10px;
+	background-color: #fdff00;
+}
+
+a {
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: red;
+}
